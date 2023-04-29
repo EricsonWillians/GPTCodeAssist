@@ -1,0 +1,119 @@
+{
+  "extensions": [
+    ".c",
+    ".h",
+
+    ".cpp",
+    ".hpp",
+    ".cc",
+    ".cxx",
+    ".c++",
+    ".hh",
+    ".hxx",
+    ".h++",
+
+    ".cs",
+
+    ".java",
+
+    ".js",
+    ".jsx",
+
+    ".ts",
+    ".tsx",
+
+    ".py",
+    ".pyw",
+
+    ".rb",
+
+    ".php",
+    ".php3",
+    ".php4",
+    ".php5",
+    ".php7",
+    ".php8",
+    ".phtml",
+
+    ".swift",
+
+    ".m",
+    ".mm",
+
+    ".kt",
+    ".kts",
+
+    ".go",
+
+    ".rs",
+
+    ".scala",
+
+    ".groovy",
+    ".gvy",
+    ".gy",
+    ".gsh",
+
+    ".dart",
+
+    ".lua",
+
+    ".pl",
+    ".pm",
+    ".t",
+    ".pod",
+
+    ".r",
+
+    ".sh",
+    ".bash",
+
+    ".ps1",
+    ".psm1",
+    ".psd1",
+
+    ".fs",
+    ".fsx",
+    ".fsi",
+    ".fsscript",
+
+    ".hs",
+    ".lhs",
+
+    ".ex",
+    ".exs",
+
+    ".erl",
+    ".hrl",
+
+    ".clj",
+    ".cljs",
+    ".cljc",
+    ".edn",
+
+    ".elm",
+
+    ".jl",
+
+    ".m",
+    ".mlx",
+
+    ".f",
+    ".for",
+    ".f90",
+    ".f95",
+    ".f03",
+    ".f08",
+
+    ".cbl",
+    ".cob",
+
+    ".vb",
+    ".vbs",
+
+    ".asm",
+    ".s",
+
+    ".sql"
+  ]
+}
